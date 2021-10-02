@@ -1,0 +1,33 @@
+# ETS & ArcGIS Test automation with Sikulix
+
+This short demo project provides an overview of how Sikulix can be used to automate across any application that uses the screen, keyboard and mouse.
+
+# Dependencies
+
+For this environment setup, I have chosen to use NixOS as the host, this allows for fully reproducible and declaratively setup environments per project, per system and per user. This project set up is defined in the nix.shell file
+
+The NixOS package manager is installable on Linux or MacOS - and can provide the same capability to declaratively set up your environment in Linux or MacOS environments.
+
+Even when using NixOS, due to github file size limitations, I have not included the following file
+
+`sikulixide-2.0.5-lux.jar`
+
+Please download it from here for the Linux version
+`wget https://launchpad.net/sikuli/sikulix/2.0.5/+download/sikulixide-2.0.5-lux.jar`
+
+If not using NixOS or the nix-shell capability, please follow the instructions at Sikulix
+
+- [sikulix install instructions](https://sikulix.github.io/docs/start/installation)
+- [sikulix](https://github.com/RaiMan/SikuliX1/wiki/About-actual-release-version)
+
+# Building the executable jar files from scripts
+
+From the Sikulix IDE,
+
+`File menu` --> `Export as Runnable jar`
+
+# Executing the scripts
+
+When in the shell with the environment set up, run
+
+`java -jar sikuli-scripts_sikuli.jar`
