@@ -31,3 +31,15 @@ From the Sikulix IDE,
 When in the shell with the environment set up, run
 
 `java -jar sikuli-scripts_sikuli.jar`
+
+# Links
+
+- [Latest documentation](https://sikulix.github.io/)
+- [SikuliX Github project](https://github.com/RaiMan/SikuliX1)
+- [Installation](https://sikulix.github.io/docs/start/installation)
+
+# Other options
+
+- [robotgo](https://github.com/go-vgo/robotgo)
+
+    - Through looking for Sikulix which I had not used for a decade, I did come across this golang project which does something similar, but by looking at the API examples, it does not seem to be as fully featured as sikulix. Who knows though, it could be good. It is kind of understandable that it is not fully featured, as you would likely know, golang as a community has a philosophy of being very Linux like. In general, they don't build batteries included frameworks, you pull together your own needs from more 'one purpose' libraries and roll your own solutions up from there.
