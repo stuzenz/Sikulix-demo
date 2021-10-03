@@ -26,6 +26,13 @@ def openDevTools():
     keyUp()  
     wait(0.5)
 
+def startPerformance():
+   click( "1633237283966.png")
+   wait(0.1)
+   click("1633237353763.png")
+   wait(0.2)
+   click("1633237385961.png")
+
 def persistLogs():
     click("1633236015299.png")
     wait(0.1)
@@ -70,11 +77,13 @@ def area():
 newTab()
 openDevTools()
 persistLogs()
+startPerformance()
 urlFocus()
 openArcGISDemo()
 enterPhysicalAddress()
 measure()
-startPerformanceAnalysis()
+
+# startPerformanceAnalysis()
 wait(5)
 
 # measure()
