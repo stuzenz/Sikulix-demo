@@ -66,7 +66,7 @@ _The main point is that you can do anything that you can from the keyboard, mous
 ---
 #### That is the demo over with
 
-- With a bit of thinking and a little code to underly running a number of different tests through the system while collecting performance metrics, taking screenshots etc.
+With a little thinking and a little code, it is possible to run a number of different tests through the system while collecting performance metrics and other data while taking screenshots etc.
 
 ---
 ### Thanks
