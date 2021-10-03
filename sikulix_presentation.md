@@ -11,9 +11,9 @@ transition: 'fade'
 
 Automation option using Sikulix with ArcGIS
 
-_3 October 2021_
+_3rd October 2021_
 
-Stuart MacDonald, ETS PMO
+Stuart MacDonald
 
 ---
 
@@ -61,7 +61,7 @@ The project was open sourced over 10 years ago
 _The main point is that you can do anything that you can from the keyboard, mouse and screen_
 ---
 
-### Let's build a jar out of of script and run it
+### Let's build a jar out of the script and run it
 
 ---
 #### That is the demo over with
