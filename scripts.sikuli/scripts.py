@@ -106,8 +106,8 @@ def seeyoulater():
 
  
 hello()
-fullScreen()
 openBrowser()
+fullScreen()
 newTab()
 openDevTools()
 persistLogs()
