@@ -75,6 +75,7 @@ _If you have any questions, feel free to contact me_
 
 _[Stuart MacDonald](stuart.macd@gmail.com)_
 
-**Github - my demo:** [https://github.com/stuzenz/Sikulix-demo](https://github.com/stuzenz/Sikulix-demo)
-**Sikulix - project site:** [https://sikulix.github.io/](https://sikulix.github.io/) 
+- *Github - my demo:* [https://github.com/stuzenz/Sikulix-demo](https://github.com/stuzenz/Sikulix-demo)
+
+- *Sikulix - project site:* [https://sikulix.github.io/](https://sikulix.github.io/) 
 
