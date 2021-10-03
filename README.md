@@ -2,7 +2,7 @@
 
 This short demo project provides an overview of how Sikulix can be used to automate across any application that uses the screen, keyboard and mouse.
 
-# Dependencies
+## Dependencies
 
 For this environment setup, I have chosen to use NixOS as the host, this allows for fully reproducible and declaratively setup environments per project, per system and per user. This project set up is defined in the nix.shell file
 
@@ -20,25 +20,25 @@ If not using NixOS or the nix-shell capability, please follow the instructions a
 - [sikulix install instructions](https://sikulix.github.io/docs/start/installation)
 - [sikulix](https://github.com/RaiMan/SikuliX1/wiki/About-actual-release-version)
 
-# Building the executable jar files from scripts
+## Building the executable jar files from scripts
 
 From the Sikulix IDE,
 
 `File menu` --> `Export as Runnable jar`
 
-# Executing the scripts
+## Executing the scripts
 
 When in the shell with the environment set up, run
 
 `java -jar sikuli-scripts_sikuli.jar`
 
-# Links
+## Links
 
 - [Latest documentation](https://sikulix.github.io/)
 - [SikuliX Github project](https://github.com/RaiMan/SikuliX1)
 - [Installation](https://sikulix.github.io/docs/start/installation)
 
-# Other options
+## Other options
 
 - [robotgo](https://github.com/go-vgo/robotgo)
 
@@ -48,7 +48,7 @@ When in the shell with the environment set up, run
 
 The methods supporting the use of special keys are `type()`, `keyDown()`, and `keyUp()`.
 
-### Key Modifiers
+## Key Modifiers
 
 Methods where key modifiers can be used include: click(), dragDrop() , doubleClick() , rightClick(), type().
 
