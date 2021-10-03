@@ -12,6 +12,7 @@ in pkgs.mkShell {
         wmctrl
         xdotool
         wget
+        jython
         peek # screen recording
 
         # The following can probably can be refactored out
