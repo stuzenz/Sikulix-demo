@@ -27,9 +27,10 @@ The project was open sourced over 10 years ago
 ---
 #### How I set up the environment
 
-- The github project has a nix.shell file
+- Sikulix will work with Linux, MacOS and Windows
+- For my set up, this demo github project has a nix.shell file
 - The nix.shell file gives you a declarative environment build
-- To use it you need to be using Linux or MacOS and the nix package manager (which is open source from NixOS)
+- To use my set up you need to be using Linux or MacOS along with the nix package manager (which is open source from NixOS)
 
 ---
 ### Let's start the nix environment
