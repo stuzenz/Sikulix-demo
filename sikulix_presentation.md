@@ -11,7 +11,7 @@ transition: 'fade'
 
 Automation option using Sikulix with ArcGIS
 
-_3 october 2021_
+_3 October 2021_
 
 Stuart MacDonald, ETS PMO
 
