@@ -7,7 +7,7 @@ revealOptions:
 transition: 'fade'
 ---
 
-#### A quick look into automation using Sikulix
+### A quick look into automation using Sikulix
 
 Automation option using Sikulix with ArcGIS
 
@@ -17,9 +17,11 @@ Stuart MacDonald, ETS PMO
 
 ---
 
-#### What is Sikulix
+### What is Sikulix
 
-Originally came out of MIT Labs. It was open sourced over 10 years ago
+Originally came out of MIT Labs. 
+
+The project was open sourced over 10 years ago
 
 
 ---
@@ -30,9 +32,8 @@ Originally came out of MIT Labs. It was open sourced over 10 years ago
 - To use it you need to be using Linux or MacOS and the nix package manager (which is open source from NixOS)
 
 ---
-#### Let's start the environment
+### Let's start the nix environment
 
-- I am using a nix.shell to manage the environment
 
 
 ---
@@ -47,26 +48,29 @@ Originally came out of MIT Labs. It was open sourced over 10 years ago
 
 - The API is very easy to use - I used the jython flavour of it;
 - The test automation gives you reproducible test execution and the ability to add it into some of your regression testing;
-- The approach is elegant. It abstracts away the need to have an API to each different platform/language/framework. 
 - It only needs to watch for the screen change and manipulate the keyboard and screen;
 - It is a maintained project with long term support in place for the OpenJDK that it runs on
 ---
 
-#### Let's run the demo
+### Let's run the demo
 
 - The demo is pretty simple. 
 - It barely touches the surface of the Sikulix API.
 
-The main point is that you can do anything that you can from the keyboard, mouse and screen
-----
+_The main point is that you can do anything that you can from the keyboard, mouse and screen_
+---
+
+### Let's build a jar out of of script and run it
+
+---
 #### That is the demo over with
 
 - With a bit of thinking and a little code to underly running a number of different tests through the system while collecting performance metrics, taking screenshots etc.
 
 ---
-#### Thanks
+### Thanks
 
-- If you have any questions, feel free to contact me
+_If you have any questions, feel free to contact me_
 
-[Stuart MacDonald](stuart.macd@gmail.com)
+_[Stuart MacDonald](stuart.macd@gmail.com)_
 
