@@ -1,4 +1,4 @@
-# Demo script to show how you can use 
+# Demo script to show how you can use sikulix
 
 
 def openBrowser():

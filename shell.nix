@@ -23,7 +23,7 @@ in pkgs.mkShell {
 
         # required for Linux to stop a couple of small errors
         libcanberra-gtk3
-
+        
 
     ];
 
