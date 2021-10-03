@@ -52,4 +52,4 @@ The methods supporting the use of special keys are `type()`, `keyDown()`, and `k
 
 Methods where key modifiers can be used include: click(), dragDrop() , doubleClick() , rightClick(), type().
 
-Use KeyModifier.CTRL, KeyModifier.ALT, KeyModifier.SHIFT, KeyModifier.META instead.
+Use Key.CTRL, Key.ALT, Key.SHIFT, Key.META instead.
